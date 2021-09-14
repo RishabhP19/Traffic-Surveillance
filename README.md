@@ -12,11 +12,10 @@ The traffic surveillance is system for detection &amp; classification of vehicle
 ```
 
 ## Screenshots :camera:
-
 <img src="https://user-images.githubusercontent.com/69960006/133246032-e4654278-abad-4cf2-9b93-2644b11e9e20.png" width="450" height="350"/> <img src="https://user-images.githubusercontent.com/69960006/133245792-970a8cd6-391d-4bd3-8aa1-e681d8478a09.png" width="450" height="350"/>
 
-![Screenshot (9)](https://user-images.githubusercontent.com/69960006/133245792-970a8cd6-391d-4bd3-8aa1-e681d8478a09.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/69960006/133246002-5c4a9523-4d44-402a-b2c0-556277270429.png)
+<img src="https://user-images.githubusercontent.com/69960006/133248671-690120f9-4f16-460f-92cb-71d8bcacfc23.jpg" width="900" height="400">
+
 
 
 ## Help Contributing Guides :bangbang:
