@@ -11,10 +11,12 @@ The traffic surveillance is system for detection &amp; classification of vehicle
 5. Send E-Challan to taffic Violaters and Traffic Police for record.
 ```
 
-## Screenshots :crown:
-Desktop View             |  Mobile View
-:-------------------------:|:-------------------------:
-![](Photoes/Desktop.png)  |  ![](Photoes/mobile.jpg)
+## Screenshots :camera:
+
+<img src="https://user-images.githubusercontent.com/69960006/133246032-e4654278-abad-4cf2-9b93-2644b11e9e20.png" width="450" height="350"/> <img src="https://user-images.githubusercontent.com/69960006/133245792-970a8cd6-391d-4bd3-8aa1-e681d8478a09.png" width="450" height="350"/>
+
+![Screenshot (9)](https://user-images.githubusercontent.com/69960006/133245792-970a8cd6-391d-4bd3-8aa1-e681d8478a09.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/69960006/133246002-5c4a9523-4d44-402a-b2c0-556277270429.png)
 
 
 ## Help Contributing Guides :bangbang:
