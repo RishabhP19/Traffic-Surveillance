@@ -22,16 +22,13 @@ The traffic surveillance is system for detection &amp; classification of vehicle
 
 I love to have different `issues` and `pull request` for the betterment of this project.
 
-Please discuss it with me first, before creating any pull request [new-issue](https://github.com/rishabhgarg25699/CodeBox-ONLINE_IDE/issues/new).
+Please discuss it with me first, before creating any pull request
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ## Features to be added :arrow_up:
-- Live Editing in the text editor in which more that one person can edit the code at the same time.
-- Submissions Page - Last Compile And Run Code will be present in the site
-- Login And Logout - Site secured by Login and Logout authentication using Passport.js
-
+- API needs to be add in existing system.
 ## Contact With Me :busts_in_silhouette:
 
-- Telegram - https://t.me/Rishabhhello
-- Gitter - https://gitter.im/rishabhgarg25699
+- Gmail - Rishabhpandey.rp19@gmail.com
+- Gitter - 
